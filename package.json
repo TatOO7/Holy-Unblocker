@@ -34,6 +34,7 @@
     "axios": "^1.7.2",
     "fastify": "^4.28.1",
     "mime-types": "^2.1.35",
+    "node.js": "^0.0.1-security",
     "pm2": "^5.4.2",
     "puppeteer": "^22.12.1",
     "wisp-server-node": "^1.1.1",
